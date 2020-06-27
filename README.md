@@ -1,5 +1,9 @@
 # Data-transmission-through-sound in python
 
-## Problem Statement
+Part of IDP-EE2025 Course.
 
-Given a data file (eg.text_file,image...) , create a model to that communicates using sound.
+### Delatiled Description of Project
+
+Given a data file (eg.text_file,image...) . We need to send this message from device to another using sound. 
+For example , we have two laptops, so transmitter(speaker) of one laptop sends the audio signal of the encoded message to reciever(microphone) and the reciever decodes the message
+and prints the file. Here the mode of transmission is audio.
