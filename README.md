@@ -11,3 +11,11 @@ For example , we have two laptops, so transmitter(speaker) of one laptop sends t
 The project requires pyaudio, it can be installed via ```pip install``` after the prerequisite portaudio library has been installed.
 
 	pip install pyaudio
+
+### Convert the data file to bits
+
+Here a binary image file of MONALISA is considered.
+
+- Load the binary image 
+   
+      MonaLisa=np.load('binary_image.npy')
