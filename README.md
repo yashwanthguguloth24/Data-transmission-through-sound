@@ -45,6 +45,6 @@ Use minimum distance decoding to demodulate.
 
 After demodulation , calculate the final bit error rate and plot the final recieved image.
 
-           plt.imshow(d,'gray')
-	   plt.show()
+    plt.imshow(d,'gray') 
+    plt.show()
 
